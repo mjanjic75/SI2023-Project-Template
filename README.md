@@ -1,3 +1,4 @@
+<div align="center" bg-color="red"><img src="http://www.ftn.kg.ac.rs/img/FTNlogo.png"></div>
 # SI2021-Project-Template
 
 ## Софтверско инжењерство 2021/2022.
